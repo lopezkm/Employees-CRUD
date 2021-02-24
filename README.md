@@ -1,1 +1,1 @@
-# First-Angular-App
+# MEAN app - Practicing Angular and Mongo db
